@@ -35,14 +35,24 @@ The objective of the Logs Analysis Project is to create a reporting tool that pr
  
 
 # run reporting tool
+```
 1-cd /path/to/vagrant
+```
+```
 vagrant up
+```
+```
 vagrant ssh
+```
+```
 
 2-cd /vagrant 
+```
+```
 3- python style.py
+```
  
-#functions used:
+# Functions used:
 select 
 where
 count
@@ -51,4 +61,4 @@ group by
 order  by
 etc
 
-author sabreen salama elsayed 
+# Author sabreen salama elsayed 
