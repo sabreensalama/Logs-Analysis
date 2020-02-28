@@ -14,7 +14,9 @@ The objective of the Logs Analysis Project is to create a reporting tool that pr
 
  
 #  steps
+```
 1-cd/path/to/vagrant
+```
    vagrant up
    vagrant provision
    vagrant ssh
