@@ -18,8 +18,12 @@ The objective of the Logs Analysis Project is to create a reporting tool that pr
    vagrant up
    vagrant provision
    vagrant ssh
+```
 2-cd /vagrant 
+```
+```
 3-psql -d news -f newsdata.sql
+```
 
 
  
