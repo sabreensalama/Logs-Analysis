@@ -1,5 +1,5 @@
 
-logs analysis:
+# logs analysis:
 
 The objective of the Logs Analysis Project is to create a reporting tool that prints out reports (in plain text) based on the data in the database. This reporting tool is a Python program using the psycopg2 module to connect to the database.
 
@@ -13,13 +13,17 @@ The objective of the Logs Analysis Project is to create a reporting tool that pr
 5-copy newdata.sql to vagrant 
 
  
-#  steps
+# steps
 ```
 1-cd/path/to/vagrant
 ```
    vagrant up
+   ```
    vagrant provision
+   ```
+   ```
    vagrant ssh
+   ```
 ```
 2-cd /vagrant 
 ```
